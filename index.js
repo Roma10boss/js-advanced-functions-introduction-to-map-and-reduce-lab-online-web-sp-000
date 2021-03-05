@@ -1,2 +1,16 @@
 // Your code here
-funtion mapToNegativize(sourceArray)
+function mapToNegativize(sourceArray){
+  
+}
+
+function mapToNoChange(sourceArray){
+  
+}
+
+function mapToDouble(sourceArray){
+  
+}
+
+function mapToSquare(sourceArray){
+
+}
