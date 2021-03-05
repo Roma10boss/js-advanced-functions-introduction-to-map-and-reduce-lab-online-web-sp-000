@@ -1,6 +1,7 @@
 // Your code here
 function mapToNegativize(sourceArray){
-  
+  sourceArray = [1,2,3]
+  return sourceArray * -1;
 }
 
 function mapToNoChange(sourceArray){
