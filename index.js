@@ -4,11 +4,11 @@ function mapToNegativize(sourceArray){
 }
 
 function mapToNoChange(sourceArray){
-  
+  return sourceArray.map(x => x);
 }
 
 function mapToDouble(sourceArray){
-  
+  return sourceArray.map(x => x*x);
 }
 
 function mapToSquare(sourceArray){
