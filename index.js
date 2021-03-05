@@ -12,7 +12,7 @@ function mapToDouble(sourceArray){
 }
 
 function mapToSquare(sourceArray){
-
+return sourceArray.map(x => x * x);
 }
 
 function reduceToTotal(sourceArray, startingPoint){
