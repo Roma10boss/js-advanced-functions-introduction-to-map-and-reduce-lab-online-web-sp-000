@@ -1,2 +1,2 @@
 // Your code here
-funtion 
+funtion mapToNegativize(sourceArray)
